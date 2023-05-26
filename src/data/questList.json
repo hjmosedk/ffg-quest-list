@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Where is our Latero!",
+    "title": "Where is our Latero?",
     "description": "The squad is investigating the missing Latero sheriff in town"
   },
   {
@@ -24,7 +24,69 @@
     "title": "The Blue Captain",
     "description": "Lizzy have a bounty to hunt the blue captain from the Jezzi - But where is he, and why do Jezzi want him dead?"
   },
-{"id": 6,
-"title":"What is red?",
-"description":"The team have relased a red person from an unknown prision somewhere, followed the activation of a teleproter below homestead"}
+  {
+    "id": 6,
+    "title": "What is red?",
+    "description": "The team have released a red person from an unknown prison somewhere, followed the activation of a teleportation device below Homestead"
+  },
+  {
+    "id": 7,
+    "title": "Where are you from?",
+    "description": "Once day a group of soldiers showed up at the doorstep of Homestead, they do not look imperial, but can they be trusted?"
+  },
+  {
+    "id": 8,
+    "title": "Who are you?",
+    "description": "Someone or something is sharing the body with the archeologist on the squad"
+  },
+  {
+    "id": 9,
+    "title": "I am not sharing",
+    "description": "After being cured from the unknown disease, lizzy have been action strange, is something wrong with her?"
+  },
+  {
+    "id": 10,
+    "title": "HOME?!",
+    "description": "Why, what and how want to harm Homestead - and way is so many people interested in this hamlet in the middle of nowhere?"
+  },
+  {
+    "id": 11,
+    "title": "I am from home",
+    "description": "What happened to the town, village or hamlet the soldiers lived in before coming to Homestead?"
+  },
+  {
+    "id": 12,
+    "title": "What do you say - Hunted? Who? Hector?",
+    "description": "Whom have but a Bounty on Hector, and why or is it just horrible mistake?"
+  },
+  {
+    "id": 13,
+    "title": "Who would leave it here?",
+    "description": "Why is there an empty base in an mounting, who owns in, why is it here, and what should we do with it? Can it be sold for credits"
+  },
+  {
+    "id": 14,
+    "title": "I promise you this is the place",
+    "description": "Four coordinates, four locations, four treasures?"
+  },
+  {
+    "id": 15,
+    "title": "One... Two... Three.. ZAP!",
+    "description": "Below the hamlet of Homestead, there is an ancient strange device - Apparently it is a teleporter, but who build it, why and where does it lead?"
+  },
+  {
+    "id": 16,
+    "title": "Yes Madam, concerning your cat, I have some good, and some bad news, what do you want first?",
+    "description": "The squad have establish a private investigation service, but is there any real mysteries to unravel in Homestead?"
+  },
+  {
+    "id": 17,
+    "title": "What is THAT doing HERE?",
+    "description": "The imperial have establish a large present on Tatooine, what are they hiding in that base?"
+  },
+  {
+    "id": 18,
+    "title": "I tell you it is Beskar!",
+    "description": "There is a hidden mine under Homestead, but does it have anything of value, or is it just fools gold?"
+  }
 ]
