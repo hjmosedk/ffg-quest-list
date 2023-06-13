@@ -2,91 +2,109 @@
   {
     "id": 1,
     "title": "Where is our Latero?",
-    "description": "The squad is investigating the missing Latero sheriff in town"
+    "description": "The squad is investigating the missing Latero sheriff in town",
+    "complete": false
   },
   {
     "id": 2,
     "title": "What is the missing thing?",
-    "description": "The squad have heard rumors of an artifact apparently currently in the processing of Jezzi the Hut, and it is supposed to be shaped like a red pyramid."
+    "description": "The squad have heard rumors of an artifact apparently currently in the processing of Jezzi the Hut, and it is supposed to be shaped like a red pyramid.",
+    "complete": false
   },
   {
     "id": 3,
     "title": "Who are the old man?",
-    "description": "There is an old man on the loose, the latest rumors have it, that he have left Tatooine, however it have not been verified, and Jezzi the Hut and the empire is very interested in this this old man"
+    "description": "There is an old man on the loose, the latest rumors have it, that he have left Tatooine, however it have not been verified, and Jezzi the Hut and the empire is very interested in this this old man",
+    "complete": false
   },
   {
     "id": 4,
     "title": "The Gangster Boss",
-    "description": "After crashing a spaceship into the base of the angry gangster boss, the squad believes they are rid of this nuisance."
+    "description": "After crashing a spaceship into the base of the angry gangster boss, the squad believes they are rid of this nuisance.",
+    "complete": false
   },
   {
     "id": 5,
     "title": "The Blue Captain",
-    "description": "Lizzy have a bounty to hunt the blue captain from the Jezzi - But where is he, and why do Jezzi want him dead?"
+    "description": "Lizzy have a bounty to hunt the blue captain from the Jezzi - But where is he, and why do Jezzi want him dead?",
+    "complete": false
   },
   {
     "id": 6,
     "title": "What is red?",
-    "description": "The team have released a red person from an unknown prison somewhere, followed the activation of a teleportation device below Homestead"
+    "description": "The team have released a red person from an unknown prison somewhere, followed the activation of a teleportation device below Homestead",
+    "complete": false
   },
   {
     "id": 7,
     "title": "Where are you from?",
-    "description": "Once day a group of soldiers showed up at the doorstep of Homestead, they do not look imperial, but can they be trusted?"
+    "description": "Once day a group of soldiers showed up at the doorstep of Homestead, they do not look imperial, but can they be trusted?",
+    "complete": false
   },
   {
     "id": 8,
     "title": "Who are you?",
-    "description": "Someone or something is sharing the body with the archeologist on the squad"
+    "description": "Someone or something is sharing the body with the archeologist on the squad",
+    "complete": false
   },
   {
     "id": 9,
     "title": "I am not sharing",
-    "description": "After being cured from the unknown disease, lizzy have been action strange, is something wrong with her?"
+    "description": "After being cured from the unknown disease, lizzy have been action strange, is something wrong with her?",
+    "complete": false
   },
   {
     "id": 10,
     "title": "HOME?!",
-    "description": "Why, what and how want to harm Homestead - and way is so many people interested in this hamlet in the middle of nowhere?"
+    "description": "Why, what and how want to harm Homestead - and way is so many people interested in this hamlet in the middle of nowhere?",
+    "complete": false
   },
   {
     "id": 11,
     "title": "I am from home",
-    "description": "What happened to the town, village or hamlet the soldiers lived in before coming to Homestead?"
+    "description": "What happened to the town, village or hamlet the soldiers lived in before coming to Homestead?",
+    "complete": false
   },
   {
     "id": 12,
     "title": "What do you say - Hunted? Who? Hector?",
-    "description": "Whom have but a Bounty on Hector, and why or is it just horrible mistake?"
+    "description": "Whom have but a Bounty on Hector, and why or is it just horrible mistake?",
+    "complete": false
   },
   {
     "id": 13,
     "title": "Who would leave it here?",
-    "description": "Why is there an empty base in an mounting, who owns in, why is it here, and what should we do with it? Can it be sold for credits"
+    "description": "Why is there an empty base in an mounting, who owns in, why is it here, and what should we do with it? Can it be sold for credits",
+    "complete": false
   },
   {
     "id": 14,
     "title": "I promise you this is the place",
-    "description": "Four coordinates, four locations, four treasures?"
+    "description": "Four coordinates, four locations, four treasures?",
+    "complete": false
   },
   {
     "id": 15,
     "title": "One... Two... Three.. ZAP!",
-    "description": "Below the hamlet of Homestead, there is an ancient strange device - Apparently it is a teleporter, but who build it, why and where does it lead?"
+    "description": "Below the hamlet of Homestead, there is an ancient strange device - Apparently it is a teleporter, but who build it, why and where does it lead?",
+    "complete": false
   },
   {
     "id": 16,
     "title": "Yes Madam, concerning your cat, I have some good, and some bad news, what do you want first?",
-    "description": "The squad have establish a private investigation service, but is there any real mysteries to unravel in Homestead?"
+    "description": "The squad have establish a private investigation service, but is there any real mysteries to unravel in Homestead?",
+    "complete": false
   },
   {
     "id": 17,
     "title": "What is THAT doing HERE?",
-    "description": "The imperial have establish a large present on Tatooine, what are they hiding in that base?"
+    "description": "The imperial have establish a large present on Tatooine, what are they hiding in that base?",
+    "complete": false
   },
   {
     "id": 18,
     "title": "I tell you it is Beskar!",
-    "description": "There is a hidden mine under Homestead, but does it have anything of value, or is it just fools gold?"
+    "description": "There is a hidden mine under Homestead, but does it have anything of value, or is it just fools gold?",
+    "complete": true
   }
 ]

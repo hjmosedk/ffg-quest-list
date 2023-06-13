@@ -8,7 +8,7 @@ const QuestList = () => {
 
   useEffect(() => {
     const getData = async () => {
-      const questList = await questService.getAllQuest();
+      const questList = questService.getAllQuest();
       setQuestList(questList);
     };
 
